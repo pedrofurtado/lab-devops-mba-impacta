@@ -1,1 +1,0 @@
-# lab-devops-mba-impacta
